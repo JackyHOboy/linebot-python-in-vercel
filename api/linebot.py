@@ -40,7 +40,7 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, coach_info())
     if event.message.text == '門市資訊':
         line_bot_api.reply_message(event.reply_token, store_info())
-    if event.message.text == '課程預約':
+    if event.message.text == '多頁':
         line_bot_api.reply_message(event.reply_token, reservation('reservation'))
     if event.message.text == '指定教練':
         line_bot_api.reply_message(event.reply_token, reservation('specify'))

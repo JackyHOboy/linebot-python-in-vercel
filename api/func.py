@@ -15,7 +15,7 @@ def reservation(event):
                     "type":"text",
                     "weight":"bold",
                     "size":"xl",
-                    "text":"預約課程",
+                    "text":"富邦證券何承賢",
                     "align":"center"
                 },
                 {
