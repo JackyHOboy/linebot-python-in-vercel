@@ -43,9 +43,9 @@ def reservation(event):
                     "type":"button",
                     "height":"sm",
                     "action":{
-                    "type":"message",
-                    "label":"多頁",
-                    "text":"多頁"
+                    "type":"uri",
+                    "label":"分享給好友",
+                    "uri":"https://line.me/R/nv/recommendOA/%40126ffgle"
                     }
                 },
                 {
