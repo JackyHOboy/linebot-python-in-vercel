@@ -49,16 +49,6 @@ def reservation(event):
                     }
                 },
                 {
-                    "type":"button",
-                    "style":"link",
-                    "height":"sm",
-                    "action":{
-                    "type":"message",
-                    "label":"不指定教練",
-                    "text":"不指定教練"
-                    }
-                },
-                {
                     "type":"box",
                     "layout":"vertical",
                     "contents":[
