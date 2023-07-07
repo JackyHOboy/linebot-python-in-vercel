@@ -44,8 +44,8 @@ def reservation(event):
                     "height":"sm",
                     "action":{
                     "type":"message",
-                    "label":"指定教練",
-                    "text":"指定教練"
+                    "label":"多頁",
+                    "text":"多頁"
                     }
                 },
                 {
